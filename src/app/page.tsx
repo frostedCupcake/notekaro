@@ -42,7 +42,7 @@ export default function Home() {
         className="py-20 bg-[#FF71AE]/30 text-gray-800 px-2"
       >
         <div className="container mx-auto text-center">
-          <h3 className="text-4xl font-bold mb-6">The Challange</h3>
+          <h3 className="text-4xl font-bold mb-6">The Challenge</h3>
           <ul className="list-disc pl-5 space-y-10">
             <span className="flex flex-row items-center">
               <li className="max-w-2xl mx-auto text-xl xl:text-[1.5rem] leading-relaxed text-left">
